@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>
+            https://raw.githubusercontent.com/devanalyste/internoveco-sitemap/nadine/sitemap_index.xml</loc>
+        <lastmod>2024-07-10</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>
+            https://raw.githubusercontent.com/devanalyste/internoveco-sitemap/nadine/page-sitemap.xml</loc>
+        <lastmod>2024-07-10</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>
+            https://raw.githubusercontent.com/devanalyste/internoveco-sitemap/nadine/attachment-sitemap.xml</loc>
+        <lastmod>2024-07-10</lastmod>
+    </sitemap>
+</sitemapindex>
